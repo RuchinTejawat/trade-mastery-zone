@@ -1,0 +1,5 @@
+name = "trade-mastery-zone"
+compatibility_date = "2026-06-03"
+compatibility_flags = ["nodejs_compat"]
+
+site = { bucket = "./dist" }
