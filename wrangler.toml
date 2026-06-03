@@ -1,4 +1,5 @@
 name = "trade-mastery-zone"
+main = "workers-site/index.js"
 compatibility_date = "2026-06-03"
 compatibility_flags = ["nodejs_compat"]
 
